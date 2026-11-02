@@ -32,7 +32,7 @@ beautifulsoup4==4.14.3
 
 
 # Database Libraries:
-sqlalchemy==2.0.47
+sqlalchemy==2.1.6
 psycopg2-binary==2.9.11
 
 # Jupyter Notebook Libraries:
